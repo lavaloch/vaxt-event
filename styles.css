@@ -77,61 +77,6 @@ button:focus {
   fill: white;
 }
 
-svg > #page-1 > #Desktop-HD > #HEADER > #Groupe-4 > #Group-10296 > #Group-22:hover ~ #letter_t {
-  fill: black;
-}
-svg > #page-1 > #Desktop-HD > #HEADER > #Groupe-4 > #Group-10296 > #Group-21:hover ~ #letter_t {
-  fill: red;
-}
-svg > #page-1 > #Desktop-HD > #HEADER > #Groupe-4 > #Group-10296 > #Group-20:hover ~ #letter_t {
-  fill: black;
-}
-svg > #page-1 > #Desktop-HD > #HEADER > #Groupe-4 > #Group-10296 > #Group-19:hover ~ #letter_t {
-  fill: pink;
-}
-svg > #page-1 > #Desktop-HD > #HEADER > #Groupe-4 > #Group-10296 > #Group-18:hover ~ #letter_t {
-  fill: black;
-}
-svg > #page-1 > #Desktop-HD > #HEADER > #Groupe-4 > #Group-10296 > #Group-17:hover ~ #letter_t {
-  fill: black;
-}
-svg > #page-1 > #Desktop-HD > #HEADER > #Groupe-4 > #Group-10296 > #Group-16:hover ~ #letter_t {
-  fill: green;
-}
-svg > #page-1 > #Desktop-HD > #HEADER > #Groupe-4 > #Group-10296 > #Group-15:hover ~ #letter_t {
-  fill: black;
-}
-svg > #page-1 > #Desktop-HD > #HEADER > #Groupe-4 > #Group-10296 > #Group-14:hover ~ #letter_t {
-  fill: grey;
-}
-svg > #page-1 > #Desktop-HD > #HEADER > #Groupe-4 > #Group-10296 > #Group-13:hover ~ #letter_t {
-  fill: black;
-}
-svg > #page-1 > #Desktop-HD > #HEADER > #Groupe-4 > #Group-10296 > #Group-12:hover ~ #letter_t {
-  fill: turquoise;
-}
-svg > #page-1 > #Desktop-HD > #HEADER > #Groupe-4 > #Group-10296 > #Group-11:hover ~ #letter_t {
-  fill: black;
-}
-svg > #page-1 > #Desktop-HD > #HEADER > #Groupe-4 > #Group-10296 > #Group-10:hover ~ #letter_t {
-  fill: magenta;
-}
-svg > #page-1 > #Desktop-HD > #HEADER > #Groupe-4 >#Group-10296 >  #Group-9:hover ~ #letter_t {
-  fill: black;
-}
-svg > #page-1 > #Desktop-HD > #HEADER > #Groupe-4 >#Group-10296 >  #Group-8:hover ~ #letter_t {
-  fill: yellow;
-}
-svg > #page-1 > #Desktop-HD > #HEADER > #Groupe-4 >#Group-10296 >  #Group-7:hover ~ #letter_t {
-  fill: black;
-}
-svg > #page-1 > #Desktop-HD > #HEADER > #Groupe-4 >#Group-10296 >  #Group-6:hover ~ #letter_t {
-  fill: black;
-}
-svg > #page-1 > #Desktop-HD > #HEADER > #Groupe-4 >#Group-10296 >  #Group-5:hover ~ #letter_t {
-  fill: black;
-}
-
 .wrapper {
   padding-top: 50px;
   width: 80%;
