@@ -1,9 +1,9 @@
 let vernissageAnnounceElt = document.querySelector("#vernissage-announce");
 let detailsExpositionElt = document.querySelector("#details-exposition");
 //detailsExpositionElt.style.display = "none"
-
 let detailsShowed = false
-
+let backgroundSvgElt = document.querySelector("#background-points-svg");
+//console.dir(backgroundSvgElt.attributes.transform.value)
 console.dir(vernissageAnnounceElt.style.display)
 console.dir(detailsExpositionElt.style.display)
 
@@ -21,5 +21,5 @@ window.setInterval(function(){
     console.log("#details-exposition - display :" + detailsExpositionElt.style.display)
     detailsShowed = true
   }
-}, 5000);
+}, 3000);
 

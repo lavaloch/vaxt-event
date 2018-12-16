@@ -12,16 +12,13 @@ body {
   max-width: 100rem;
 }
 
-button {
-  position: relative;
-  height: 80px;
-  width: 250px;
+a {
   background-color: #E5D0B4;
   border: none;
   cursor: pointer;
 }
 
-button:hover > .button {
+a:hover > .box-button > .button {
   top: 10px;
   left: 10px;
   transition: 0.1s;
@@ -29,13 +26,19 @@ button:hover > .button {
   background-color: #000;
 }
 
-button:focus {
+a:focus {
   outline: none;
 }
 /*button:hover > .shadow {
   background-color: black;
   transition: 0.1s;
 }*/
+
+.box-button {
+  height: 80px;
+  width: 250px;
+  position: relative;
+}
 
 .button {
   position: absolute;
